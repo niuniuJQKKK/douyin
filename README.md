@@ -27,7 +27,7 @@ __数据样例__
     music_owner_id:"104255897823"
     music_play_url:""
     music_title:"@人民日报创作的原声"
-}
+  }
   video_statistics:{
     admire_count:0
     collect_count:34025
