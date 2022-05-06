@@ -4,7 +4,7 @@ appium+mitmproxy 抓取抖音用户信息、作品信息等
 __数据样例__
 ```
 {
-  video_audio_url:"https://api.amemv.com/aweme/v1/play/?       video_id=v0200fg10000c7idcd3c77uevkuq0kng&line=1&file_id=4f41947bd0d849c0b6c83051b0da649c&sign=62334e11d5c69b592a900a4ce79d06ea&is_play_url=1&source=PackSourceEnum_PUB  LISH"
+  video_audio_url:"https://api.amemv.com/aweme/v1/play/?video_id=v0200fg10000c7idcd3c77uevkuq0kng&line=1&file_id=4f41947bd0d849c0b6c83051b0da649c&sign=62334e11d5c69b592a900a4ce79d06ea&is_play_url=1&source=PackSourceEnum_PUB  LISH"
   video_author:{
     author_icon:"https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/mosaic-legacy_30ed2000aad26be101cad"
     author_nick_name:"人民日报"
